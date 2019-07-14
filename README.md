@@ -1,3 +1,11 @@
+
+
+
+In this App I am taking data in json formate from user and also accapt the position and type of graph that user want to add and displaying it as per requirment
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
